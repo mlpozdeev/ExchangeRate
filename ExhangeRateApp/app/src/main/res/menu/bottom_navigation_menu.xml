@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popular_screen"
+        android:icon="@drawable/ic_popular"
+        android:title="@string/popular_screen_name" />
+
+    <item
+        android:id="@+id/favorites_screen"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/favorites_screen_name" />
+
+</menu>

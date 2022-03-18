@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/Learning/ExchangeRate/ExhangeRateApp/app/src/main/res/drawable/ic_favorite.xml" value="0.1765" />
+        <entry key="..\:/Users/User/Learning/ExchangeRate/ExhangeRateApp/app/src/main/res/drawable/ic_popular.xml" value="0.1765" />
+        <entry key="..\:/Users/User/Learning/ExchangeRate/ExhangeRateApp/app/src/main/res/drawable/ic_star.xml" value="0.227" />
         <entry key="..\:/Users/User/Learning/ExchangeRate/ExhangeRateApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/Learning/ExchangeRate/ExhangeRateApp/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.34479166666666666" />
       </map>
     </option>
   </component>
